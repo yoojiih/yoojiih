@@ -1,7 +1,7 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jihyeon%20T+Yoo&fontSize=80&fontAlign=60&animation=fadeIn)
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Jihyeon%20+Yoo&fontSize=80&fontAlign=60&fontColor=FFFFFF&animation=fadeIn)
+
   <h3> 🙌 Welcome 🙌 </h3>
   <p> I'm a Front developer 😎 <br/> 
       I want to develop convenient and cool things ✨</p>
