@@ -7,6 +7,7 @@
       I want to develop convenient and cool things ✨</p>
   
   <h3> 💻 Techology Stack 💻 </h3>  
+  
   #### LANGUAGES
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,6 +17,7 @@
   ![C++](https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=c++&logoColor=white)
   ![JAVA](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/python%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+ 
   #### Hosting
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
     
