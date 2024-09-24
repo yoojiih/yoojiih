@@ -27,6 +27,7 @@
 
   #### TOOLS
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+  ![Zeplin](https://img.shields.io/badge/-Zeplin-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 </div>
